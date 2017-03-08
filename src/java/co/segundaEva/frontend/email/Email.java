@@ -23,8 +23,8 @@ public class Email {
 
     private final static String HOST = ("smtp.gmail.com"); //Servidor de Correos que se va a usar (en este caso gmail)
     private final static String PORT = ("587"); // Tambien el puerto puede ser= 25 ó 587
-    private final static String REMITENTE = ("expochick17@gmail.com"); // Cuenta de la que va salir el correo
-    private final static String REMITENTE_PAST = ("expo1234"); //Password "REMITENTE_PASS"
+    private final static String REMITENTE = ("correo@gmail.com"); // Cuenta de la que va salir el correo
+    private final static String REMITENTE_PAST = ("econtraseña"); //Password "REMITENTE_PASS"
 
     private String asunto;
     private String mensaje;
